@@ -12,3 +12,9 @@ body
     font-size: 30px;
     font-weight: 800;
 }
+
+#cabecera
+{
+    background-color: aqua;
+    height: 80px;
+}
